@@ -1,0 +1,13 @@
+F:\DAS\src\DAS.RESTClient\bin\Debug\DAS.RESTClient.dll
+F:\DAS\src\DAS.RESTClient\bin\Debug\DAS.RESTClient.pdb
+F:\DAS\src\DAS.RESTClient\bin\Debug\Newtonsoft.Json.dll
+F:\DAS\src\DAS.RESTClient\bin\Debug\RestSharp.dll
+F:\DAS\src\DAS.RESTClient\bin\Debug\Newtonsoft.Json.xml
+F:\DAS\src\DAS.RESTClient\bin\Debug\RestSharp.xml
+F:\DAS\src\DAS.RESTClient\obj\Debug\DAS.RESTClient.dll
+F:\DAS\src\DAS.RESTClient\obj\Debug\DAS.RESTClient.pdb
+F:\DAS\src\DAS.RESTClient\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\DAS\src\DAS.RESTClient\bin\Debug\System.Net.Http.Formatting.dll
+F:\DAS\src\DAS.RESTClient\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\DAS\src\DAS.RESTClient\bin\Debug\System.Net.Http.Formatting.xml
+F:\DAS\src\DAS.RESTClient\obj\Debug\DAS.RESTClient.csprojResolveAssemblyReference.cache

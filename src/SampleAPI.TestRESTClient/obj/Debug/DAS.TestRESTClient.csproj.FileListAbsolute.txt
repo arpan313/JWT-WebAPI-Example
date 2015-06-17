@@ -1,0 +1,16 @@
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\DAS.TestRESTClient.exe.config
+F:\DAS\src\DAS.TestRESTClient\obj\Debug\DAS.TestRESTClient.csprojResolveAssemblyReference.cache
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\DAS.TestRESTClient.exe
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\DAS.TestRESTClient.pdb
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\DAS.RESTClient.dll
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\RestSharp.dll
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\System.Net.Http.Formatting.dll
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\Newtonsoft.Json.dll
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\DAS.RESTClient.pdb
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\RestSharp.xml
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\System.Net.Http.Formatting.xml
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\DAS\src\DAS.TestRESTClient\bin\Debug\Newtonsoft.Json.xml
+F:\DAS\src\DAS.TestRESTClient\obj\Debug\DAS.TestRESTClient.exe
+F:\DAS\src\DAS.TestRESTClient\obj\Debug\DAS.TestRESTClient.pdb
